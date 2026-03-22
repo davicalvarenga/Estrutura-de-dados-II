@@ -10,13 +10,15 @@ typedef struct node {
     struct node* direita;
 } node; 
 
-int   isEmpty(node* raiz);
-void  initTree(node** raiz);
-void  destroyTree(node** raiz);
+int  isEmpty(node* raiz);
+void insertTree(node** raiz, int valor);
+void initTree(node** raiz);
+void destroyTree(node** raiz);
+void bfs(node* raiz);
+node* getMin(node* raiz);
+node* getMax(node* raiz);
+void  printItem(node* raiz, int valor);
+void printTreeVisual(node* raiz);
 
-node* insert(node** raiz, int valor);
-node* search(node* raiz, int valor);
-
-void  bfs(node* raiz);
 
 #endif

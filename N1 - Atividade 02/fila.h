@@ -13,34 +13,10 @@ typedef struct Queue {
     Queuenode* fim;
 } Queue;
 
-void initQueue(Queue* fila) {
-    fila->inicio = NULL;
-    fila->fim = NULL;
-}
-
-int isEmptyQueue(Queue* fila) {
-    return fila->inicio == NULL;
-}
-
-void Enqueue(Queue* fila, void* dado) {
-    Queuenode* newnode = (Queuenode*)malloc(sizeof(Queuenode));
-    newnode->dado = dado;
-    newnode->proximo = NULL;
-    if (isEmptyQueue(fila)) {
-        fila->inicio = newnode;
-        fila->fim = newnode;
-    } else {
-        fila->fim->proximo = newnode;
-        fila->fim = newnode;
-    }
-}
-
-void Dequeue(Queue* fila) {
-    if(isEmptyQueue(fila)) {
-        return NULL;
-    }
-    
-}
-
+void  initQueue(Queue* fila);
+int   isEmptyQueue(Queue* fila);
+void  Enqueue(Queue* fila, void* dado);
+void* Dequeue(Queue* fila);
+void  destroyQueue(Queue* fila);
 
 #endif
