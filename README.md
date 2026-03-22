@@ -6,8 +6,8 @@ Este repositório contém as atividades, exercícios e projetos práticos desenv
 
 O repositório está organizado em pastas para cada atividade ou avaliação da disciplina. No momento, a organização apresenta-se da seguinte forma:
 
-- 📁 **N1 - Atividade 01/**: [Substitua por uma breve descrição, ex: Implementação de Árvores Binárias de Busca]
-- 📁 **N1 - Atividade 02/**: [Substitua por uma breve descrição, ex: Algoritmos de Ordenação e Grafos]
+- 📁 **N1 - Atividade 01/**: [Implementação de uma Tabela Hash com tratamento de colisões].
+- 📁 **N1 - Atividade 02/**: [Implementação de Árvores Binárias de Busca].
 
 *(Esta seção será atualizada à medida que novas atividades e projetos forem adicionados, como trabalhos da N2 ou avaliações finais).*
 
