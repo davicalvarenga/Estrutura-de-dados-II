@@ -49,17 +49,3 @@ Este repositório irá evoluir como um portfólio contínuo ao longo da discipli
 -----
 
 *Este é um projeto com fins acadêmicos, desenvolvido para aprofundar os conhecimentos em engenharia de software e ciência da computação.*
-
-```
-
----
-
-### Como utilizar:
-1. No seu repositório no GitHub, clique no arquivo `README.md`.
-2. Clique no ícone do lápis (Edit) para editar o arquivo.
-3. Copie e cole o código acima.
-4. Lembre-se de substituir os blocos entre colchetes `[...]` pelas descrições reais do que você fez em cada atividade.
-5. Faça o *Commit* das alterações.
-
-Gostaria que eu já criasse um modelo de documentação padrão para você colocar dentro de cada uma das pastas das atividades (como um mini README para cada tarefa)?
-```
