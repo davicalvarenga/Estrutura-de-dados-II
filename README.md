@@ -44,7 +44,7 @@ Este repositório irá evoluir como um portfólio contínuo ao longo da discipli
 
 ## ✒️ Autor
 
-  - [Davi Calvarenga](https://www.google.com/search?q=https://github.com/davicalvarenga)
+  - [Davi Coelho de Alvarenga](https://github.com/davicalvarenga)
 
 -----
 
