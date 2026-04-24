@@ -8,6 +8,7 @@ O repositório está organizado em pastas para cada atividade ou avaliação da 
 
 - 📁 **N1 - Atividade 01/**: [Implementação de uma Tabela Hash com tratamento de colisões].
 - 📁 **N1 - Atividade 02/**: [Implementação de Árvores Binárias de Busca].
+- 📁 **N2 - Atividade 01/**: [Percurso em Profundidade - Árvore Binária de busca].
 
 *(Esta seção será atualizada à medida que novas atividades e projetos forem adicionados, como trabalhos da N2 ou avaliações finais).*
 
@@ -33,14 +34,6 @@ gcc nome_do_arquivo.c -o executavel
 ./executavel   # (Ambientes Linux / macOS)
 executavel.exe # (Ambientes Windows)
 ````
-
-## 🗓️ Atividades Futuras e Próximos Passos
-
-Este repositório irá evoluir como um portfólio contínuo ao longo da disciplina. Os próximos passos incluem:
-
-  - **Trabalhos da N2:** Implementação de estruturas mais complexas conforme o avanço do semestre.
-  - **Documentação e Código Limpo:** Melhoria contínua dos comentários e da legibilidade do código.
-  - **Integração de Estruturas:** Projetos finais que exijam a junção de diferentes tipos de dados.
 
 ## ✒️ Autor
 
