@@ -1,13 +1,3 @@
-// NEcessario reescrever e adicionar as funcoes de fila
-// Para o trabalho, as funcoes principais são: initTree, insertTree, bfs, getMin, getMax e destroyTree
-
-
-
-
-
-
-
-
 #include <stdio.h>
 #include "tree.h"
 
